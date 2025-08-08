@@ -1,5 +1,5 @@
 
-# Streamlined Web Scraping
+# Streamlined Web Scraper
 
 ## Overview
 This Python-based solution facilitates efficient extraction and categorisation of links from web pages. It processes a given CSV file containing domain URLs, fetches metadata (title and description), categorises links based on predefined patterns, and outputs the results to a new CSV file.
